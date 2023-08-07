@@ -18,10 +18,8 @@ Python 3.x
 
 Divirta-se jogando! 😃🎮
 
-perl
-Copy code
 
-Lembre-se de adaptar o texto para o seu repositório específico, incluindo o link correto do repositório no comando de clone e substituindo `seu_usuario` e `nome_do_repositorio` pelo seu nome de usuário e nome do repositório no GitHub. Certifique-se também de incluir o arquivo `jogo_da_forca.py` que contém o código do jogo no mesmo diretório do arquivo README.md antes de postá-los no GitHub.
+
 
 
 
